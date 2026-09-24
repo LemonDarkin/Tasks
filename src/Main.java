@@ -10,6 +10,5 @@ public class Main {
         int seconds = n % 60;
 
         System.out.printf("%d:%02d:%02d", hours, minutes, seconds);
-        System.out.printf("%d:%02d:%02d", hours, minutes, seconds);
     }
 }
